@@ -2,7 +2,9 @@
 """
 Created on Sat Mar 13 20:34:50 2021
 
-Regression model using pima-indians-diabetes data.
+Regression model using pima-indians-diabetes
+
+Dtermine diabetes based on data
 
 XGBoost implementation.
 
